@@ -2,6 +2,7 @@
   "build": {
     "env": {
       "NODE_VERSION": "20.12.2"
-    }
+    },
+    "command": "nvm install 20.12.2 && nvm use 20.12.2 && npm install"
   }
 }
