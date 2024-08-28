@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --outDir docs",
-    "preview-build": "vite preview --outDir docs"
+    "preview-build": "vite preview --outDir docs",
+    "postinstall": "nvm use 20.12.2 || npm install -g npm@10.5.0"
   },
   "devDependencies": {
     "vite": "^5.2.0"
