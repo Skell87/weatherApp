@@ -9,6 +9,6 @@
     }
   ],
   "env": {
-    "NODE_VERSION": "20.12.2"
+    "NODE_VERSION": "20.x"
   }
 }
