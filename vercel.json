@@ -7,8 +7,5 @@
         "distDir": "docs"
       }
     }
-  ],
-  "env": {
-    "NODE_VERSION": "20.x"
-  }
+  ]
 }
